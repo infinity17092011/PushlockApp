@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushLock</string>
+    <string name="accessibility_label">PushLock</string>
+    <string name="accessibility_description">PushLock uses this only to notice which app is in front, so it can ask for push-ups before a locked app opens. It never reads your screen, messages or passwords.</string>
+</resources>
